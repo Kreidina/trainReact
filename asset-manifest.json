@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trainReact/static/css/main.aaaf48ca.css",
+    "main.js": "/trainReact/static/js/main.04996af9.js",
+    "index.html": "/trainReact/index.html",
+    "main.aaaf48ca.css.map": "/trainReact/static/css/main.aaaf48ca.css.map",
+    "main.04996af9.js.map": "/trainReact/static/js/main.04996af9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.04996af9.js"
+  ]
+}
